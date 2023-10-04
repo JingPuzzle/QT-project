@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/cimg.png</file>
+        <file>data/keyWords.txt</file>
+    </qresource>
+</RCC>
